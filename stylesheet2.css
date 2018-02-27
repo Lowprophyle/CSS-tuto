@@ -1,0 +1,99 @@
+#lorem {
+
+    color: turquoise;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    margin: 10px;
+
+    border-top: orange solid 5px;
+    border-right: navajowhite dotted 5px;
+    border-bottom: 5px dashed #00308F;
+    border-left: double 5px mediumaquamarine;
+
+    background: #F2F3F4 url("https://i.pinimg.com/564x/c0/f2/7f/c0f27ff968c9cc3c92e5acf01a268383.jpg")center;
+
+
+}
+
+#fsNormal {
+    font-style: normal;
+  }
+   
+  #fsItalic {
+    font-style: italic;
+  }
+   
+  #fsOblique {
+    font-style: oblique;
+  }
+   
+  #fvNormal {
+    font-variant: normal;
+  }
+   
+  #fvSmallCaps {
+    font-variant: small-caps;
+  }
+   
+  #fwNormal {
+    font-weight: normal;
+  }
+   
+  #fwBold {
+    font-weight: bold;
+  }
+   
+  #fwBolder {
+    font-weight: bolder;
+  }
+   
+  #fwLighter {
+    font-weight: lighter;
+  }
+   
+  #fszMedium {
+    font-size: medium;
+  }
+   
+  #fszXXSmall {
+    font-size: xx-small;
+  }
+   
+  #fszSmall {
+    font-size: small;
+  }
+   
+  #fszXXLarge {
+    font-size: xx-large;
+  }
+   
+  #fszLarge {
+    font-size: large;
+  }
+   
+  #fszPrct {
+    font-size: 200%;
+  }
+   
+  #fsz25pt {
+    font-size: 25pt;
+  }
+   
+  #lhNormal {
+    line-height: normal;
+  }
+   
+  #lh25pt {
+    line-height: 25pt;
+  }
+   
+  #lh200prct {
+    line-height: 200%;
+  }
+   
+  #lh200prct {
+    line-height: 200%;
+  }

@@ -1,0 +1,13 @@
+/*
+Browsers add prefixes to property names before they are stable
+moz : Firefox, ms : IE, o : Opera and webkit : Chrome / Safari
+*/
+
+div#div1, div#div2, div#div3, div#div4 {
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border: 3px solid black;
+}
+
+/* Direction or left / right / top / bottom,  color stops*/
